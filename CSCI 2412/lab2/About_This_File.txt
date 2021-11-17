@@ -1,0 +1,5 @@
+The purpose of this lab was to get our feet wet with a little PHP coding as well as a little more work dealing with Git. 
+
+In this lab, we gained expierience with variables, operators, and if/else statements. 
+
+diy.php is where we used our new knowledge to create a program that tracks whether or not a number is divisible by 3, by 5, or both and reports it back to the user. 
